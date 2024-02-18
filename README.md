@@ -6,11 +6,11 @@ Welcome to my repository of Node.js projects! Each project here represents a dif
 
 1. **Web Server Concept:**
 
-   - [Web Server](loki-nodejs/Web%20Server/): A basic Node.js web server using Express.
+   - [Web Server](Web%20Server/): A basic Node.js web server using Express.
      - Provides endpoints for the home page, Loki, and a custom god.
 
 2. **REST API Implementation Concept:**
-   - [restAPI](loki-nodejs/restAPI/): Focuses on implementing a RESTful API using Node.js and Express.
+   - [RESTful API with Express](RESTful%20API%20with%20Express/): Focuses on implementing a RESTful API using Node.js and Express.
      - Includes endpoints for user retrieval, addition, update, and deletion.
 
 ## Project Structure
@@ -22,7 +22,7 @@ loki-nodejs/
 ├── Web Server/
 │ ├── README.md
 │ └── index.js
-├── restAPI/
+├── RESTful API with Express/
 │ ├── README.md
 │ └── index.js
 ```
