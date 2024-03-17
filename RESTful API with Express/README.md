@@ -15,10 +15,10 @@ The API provides endpoints for managing user data, including fetching all users,
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
-   ```
+```bash
+   git clone https://github.com/lokeshwar777/loki-nodejs.git
+   cd "loki-nodejs/RESTful API with Express"
+```
 
 2. Install dependencies:
 

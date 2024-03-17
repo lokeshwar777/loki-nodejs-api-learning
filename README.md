@@ -32,11 +32,49 @@ loki-nodejs/
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/loki-nodejs.git
+git clone https://github.com/lokeshwar777/loki-nodejs.git
 cd loki-nodejs
 ```
 
 For each project, refer to the respective README.md file for detailed instructions on how to run and explore the project locally.
+
+## Contribute to the Project
+
+This project is open for contributions, and your input is highly valued. If you encounter any issues or have ideas for improvements, please feel free to contribute. Follow the steps below to get started:
+
+1. Fork the repository to your GitHub account.
+
+2. Clone the forked repository to your local machine:
+
+```
+git clone https://github.com/your-username/loki-nodejs.git
+cd loki-nodejs
+```
+
+3. Create a new branch for your contribution:
+
+```
+git checkout -b feature/your-feature
+```
+
+4. Make your changes and commit them:
+
+```
+git add .
+git commit -m "Add your concise commit message"
+```
+
+5. Push your changes to your forked repository:
+
+```
+git push origin feature/your-feature
+```
+
+6. Create a pull request from your branch to the main repository.
+
+## Issues
+
+If you come across any issues or have suggestions, please [create an issue](https://github.com/lokeshwar777/loki-nodejs/issues).
 
 ## Credits
 
